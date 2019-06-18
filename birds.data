@@ -1,0 +1,5 @@
+classes= 404
+train  = /content/darknet/data/nabirds/birds_train.txt
+valid  = /content/darknet/data/nabirds/birds_test.txt
+names = /content/darknet/data/nabirds/nabirds.names
+backup = /content/darknet/data/nabirds/weights
